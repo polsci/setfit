@@ -1,0 +1,14 @@
+/.ipynb_checkpoints
+/all-data.pkl
+/annotated_data-40.csv
+/annotated_data.csv
+/annotated_data.pkl
+/argilla-create-custom-dataset.ipynb
+/cnas-data-v1.pkl
+/cnas-data-v2.pkl
+/cnas-examples.csv
+/do-ner-for-cnas.ipynb
+/setfit-test-cnas-model
+/setfit-test-model
+/setfit-test-model-fasttest
+/setfit-test-with-cnas.ipynb
